@@ -4,7 +4,7 @@ public class ExampleAge {
 public void vote() {
 	int age=16;
 	if(age>=18) {
-		System.out.println("eligible for voting");
+		System.out.println(" candidate eligible for voting");
 			
 	}
 	else {

@@ -7,7 +7,7 @@ public void division() {
 	System.out.println(a);
 	}
 	catch(Exception e) {
-		System.out.println( "handled"+e);
+		System.out.println( " Exception handled"+e);
 	
 	}
 	finally {
